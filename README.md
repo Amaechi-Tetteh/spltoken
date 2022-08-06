@@ -1,4 +1,4 @@
-# "CHAINVOTE"
+# "SPL-Token: NFT"
 ### Built with Rust, Solana, Anchor, Typescript, SPL-Token
 ### Tested With Mocha, Chai
 
